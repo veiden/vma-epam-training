@@ -1,0 +1,1 @@
+JavaFundamental course tasks
